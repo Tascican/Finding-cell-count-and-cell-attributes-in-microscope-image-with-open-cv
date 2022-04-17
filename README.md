@@ -1,1 +1,1 @@
-# Finding-cell-count-and-cell-attributes-in-microscope-image-with-open-cv
+# Finding cell count and cell attributes in microscope image with opencv
